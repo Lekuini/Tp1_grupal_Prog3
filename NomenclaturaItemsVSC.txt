@@ -1,0 +1,21 @@
+/// Controles
+
+Form            -       Form
+
+Label		-	lbl
+
+TextBox		-	txt
+
+Button		-	btn
+
+ComboBox	-	cmbx
+
+ListBox		-	lbx
+
+RadioButton	-	rbtn
+
+GroupBox	-	gbx
+
+CheckBox	-	cbx
+
+CheckedListBox	-	clbx
